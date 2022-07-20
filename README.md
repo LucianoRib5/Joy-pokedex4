@@ -27,13 +27,6 @@
 - [Styled-components](https://styled-components.com/)
 - [Axios](https://axios-http.com/docs/intro)
 
-### :white_check_mark: O que funciona
-- [x] Requisitos básicos.
-- [x] Desafios 1 e 3.
-
-### :x: O que não funciona
-- [ ] Desafio 2.
-
 ### Demonstração (Link Surge) 
 [Site Pokédex](http://future-clover.surge.sh/)
 
